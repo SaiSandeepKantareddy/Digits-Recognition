@@ -1,0 +1,11 @@
+Class: 0, Error Rate: 0.0
+Class: 3, Error Rate: 0.0
+Class: 5, Error Rate: 0.0
+Class: 7, Error Rate: 0.0
+Class: 4, Error Rate: 0.0
+Class: 6, Error Rate: 0.0
+Class: 8, Error Rate: 0.36363636363636365
+Class: 9, Error Rate: 0.1
+Class: 1, Error Rate: 0.0
+Class: 2, Error Rate: 0.0
+mAP: 95.3636
